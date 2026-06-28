@@ -5,7 +5,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/The-Syntax-Slayer/ask-multiple-pdfs/pulls)
 [![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/The-Syntax-Slayer/ask-multiple-pdfs/graphs/commit-activity)
 
-> You can find the tutorial for this project on [YouTube](https://youtu.be/dXxQ0LR-3Hg).
 
 ## Introduction
 ------------
